@@ -34,7 +34,7 @@ public class Solution58 {
     
     public static void main(String[] args) {
         Solution58 solution58 = new Solution58();
-        String testWord = "a good   example";
+        String testWord = "a good   example    ";
         System.out.println(testWord);
         System.out.println(solution58.reverseWords(testWord));
     }
